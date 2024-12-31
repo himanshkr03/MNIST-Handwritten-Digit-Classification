@@ -86,7 +86,6 @@ The trained model is assessed on the test dataset. Metrics used include:
   ```python
    prediction = model.predict(preprocessed_image)
    predicted_digit = np.argmax(prediction)
-    ```
 # Results  
 This section presents a comprehensive analysis of the performance achieved by the Handwritten Digit Classification model.
 
