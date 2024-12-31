@@ -83,7 +83,7 @@ The trained model is assessed on the test dataset. Metrics used include:
    Resize image to 28x28 pixels.
    Normalize pixel values to [0, 1].
 3. Predict the digit:
-  ```python
+   ```python
    prediction = model.predict(preprocessed_image)
    predicted_digit = np.argmax(prediction)
     ```
