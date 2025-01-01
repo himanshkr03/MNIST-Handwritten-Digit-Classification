@@ -104,5 +104,14 @@ The model's high accuracy and low loss on the test dataset signify its excellent
 - **Real-world Integration:** Utilize in form digitization, postal code reading, or license plate recognition.  
 - **Deployment:** Build a web application or REST API for practical usage.  
 
+## HellO Take a Look Here!
+
+I am **Himanshu Rajak**, an enthusiastic learner exploring the fields of **Data Science**, **Machine Learning**, and **Artificial Intelligence**. I have a keen interest in research, particularly in **Large Language Models (LLMs)**, **Generative AI**, and **Quantum Computing**. If you share similar interests or would like to connect, feel free to reach out!
+
+- **LinkedIn**: [Himanshu Rajak](https://www.linkedin.com/in/himanshu-rajak-22b98221b/)
+- **Medium**: [Himanshu Rajak](https://himanshusurendrarajak.medium.com/)
+
+Let's collaborate and innovate together!
+
 
 
